@@ -1,0 +1,732 @@
+.space{
+  /*height:-10px;*/
+}
+
+.topic{
+  color: white;
+font-size: 18px;
+text-align: left;
+padding-left: 11px;
+padding-bottom: 4px;
+background-color: DeepPink;
+position: relative;
+width: 152px;
+
+}
+
+.question{
+  background-color: DimGrey;
+  position: relative;
+  height: 267px;
+  width: 362px;
+  overflow: scroll;
+  font-size: 18px;
+  padding: 6px;
+  color: GhostWhite;
+}
+
+.option_A{
+  position: relative;
+height: 64px;
+width: 362px;
+font-size: 18px;
+background: whitesmoke;
+padding: 20px 10px 16px 17px
+}
+
+.option_B{
+  position: relative;
+height: 64px;
+width: 362px;
+font-size: 18px;
+background:Gainsboro;
+padding: 20px 10px 16px 17px
+}
+
+.phonelayout{
+  margin-left: 70px;
+margin-top: 20px;
+position: relative;
+border: 5px solid white;
+min-width: 372px;
+border-radius: 25px;
+padding: -1px -1px;
+padding-top: 34px;
+padding-bottom: 34px;
+margin-right: 489px;
+}
+
+.imge{
+  margin-left: -130px;
+  margin-top: 29px;
+}
+
+
+.playlogo{
+  height: 96px;
+width: 229px;
+
+}
+
+.playlayout{
+  background:#b0b0b1;
+position: absolute;
+min-width: 360px;
+height: 254px;
+opacity: 0.8;
+top: 408px;
+margin-left:1px;
+
+
+}
+
+
+
+.logo{
+  height: 74px;
+  width: 213px;
+  top: 503px;
+  position:absolute;
+  margin-left:81px;
+
+
+}
+/*
+/*
+@media screen and (max-width:1024px)
+{
+
+  .design{
+    background: linear-gradient(to bottom, #003399 -9%, #ff66cc 121%);
+    overflow-x:hidden;
+    height:1366px;
+  }
+
+  .imge{
+    margin-left:11px;
+  }
+
+  .space{
+    height:300px;
+  }
+
+  .topic{
+    color: white;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 11px;
+  padding-bottom: 4px;
+  background-color: DeepPink;
+  position: relative;
+  width: 152px;
+
+  }
+
+  .question{
+    background-color: DimGrey;
+    position: relative;
+    height: 267px;
+    width: 362px;
+    overflow: scroll;
+    font-size: 18px;
+    padding: 6px;
+  }
+
+  .option_A{
+    position: relative;
+  height: 64px;
+  width: 362px;
+  font-size: 18px;
+  background: whitesmoke;
+  padding: 20px 10px 16px 17px
+  }
+
+  .option_B{
+    position: relative;
+  height: 64px;
+  width: 362px;
+  font-size: 18px;
+  background: white;
+  padding: 20px 10px 16px 17px
+  }
+
+  .phonelayout{
+    margin-left: -23px;
+      margin-top: 50px;
+      position: relative;
+      border: 5px solid white;
+      min-width: 375px;
+      border-radius: 25px;
+      padding: 13px 3px;
+      padding-top: 34px;
+      padding-bottom: 34px;
+      margin-right: 489px;
+  }
+}*/
+
+/*
+@media screen and (max-width:768px)
+{
+
+  .design{
+    background: linear-gradient(to bottom, #003399 -9%, #ff66cc 121%);
+    overflow-x:hidden;
+    height:1366px;
+  }
+
+  .imge{
+    margin-left: 268px;
+    margin-right: 131px;
+  }
+
+  .space{
+    height:300px;
+  }
+
+  .topic{
+    color: white;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 11px;
+  padding-bottom: 4px;
+  background-color: DeepPink;
+  position: relative;
+  width: 152px;
+
+  }
+
+  .question{
+    background-color: DimGrey;
+    position: relative;
+    height: 267px;
+    width: 362px;
+    overflow: scroll;
+    font-size: 18px;
+    padding: 6px;
+  }
+
+  .option_A{
+    position: relative;
+  height: 64px;
+  width: 362px;
+  font-size: 18px;
+  background: whitesmoke;
+  padding: 20px 10px 16px 17px
+  }
+
+  .option_B{
+    position: relative;
+  height: 64px;
+  width: 362px;
+  font-size: 18px;
+  background: white;
+  padding: 20px 10px 16px 17px
+  }
+
+  .phonelayout{
+    margin-left: 242px;
+    margin-top: 50px;
+    position: relative;
+    border: 5px solid white;
+    min-width: 374px;
+    border-radius: 25px;
+    padding: -33px -6px;
+    padding-top: 33px;
+    padding-bottom: 34px;
+    margin-right: 489px;
+  }
+}*/
+
+/*
+
+@media screen and (max-width:590px)
+{
+
+  .design{
+    background: linear-gradient(to bottom, #003399 -9%, #ff66cc 121%);
+    overflow-x:hidden;
+    height:1366px;
+  }
+
+  .imge{
+    margin-left: 268px;
+    margin-right: 131px;
+  }
+
+  .space{
+    height:300px;
+  }
+
+  .topic{
+    color: white;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 11px;
+  padding-bottom: 4px;
+  background-color: DeepPink;
+  position: relative;
+  width: 152px;
+
+  }
+
+  .question{
+    background-color: DimGrey;
+    position: relative;
+    height: 267px;
+    width: 362px;
+    overflow: scroll;
+    font-size: 18px;
+    padding: 6px;
+  }
+
+  .option_A{
+    position: relative;
+  height: 64px;
+  width: 362px;
+  font-size: 18px;
+  background: whitesmoke;
+  padding: 20px 10px 16px 17px
+  }
+
+  .option_B{
+    position: relative;
+  height: 64px;
+  width: 362px;
+  font-size: 18px;
+  background: white;
+  padding: 20px 10px 16px 17px
+  }
+
+  .phonelayout{
+    margin-left: 242px;
+    margin-top: 50px;
+    position: relative;
+    border: 5px solid white;
+    min-width: 374px;
+    border-radius: 25px;
+    padding: -33px -6px;
+    padding-top: 33px;
+    padding-bottom: 34px;
+    margin-right: 489px;
+  }
+}*/
+
+
+/*
+
+@media screen and (max-width:414px)
+{
+
+  .design{
+    background: linear-gradient(to bottom, #003399 -9%, #ff66cc 121%);
+    overflow:scroll;
+    height:1366px;
+  }
+
+  .imge{
+    margin-left: 54px;
+
+  }
+
+  .space{
+    height:300px;
+  }
+
+  .topic{
+    color: white;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 11px;
+  padding-bottom: 4px;
+  background-color: DeepPink;
+  position: relative;
+  width: 152px;
+
+  }
+
+  .question{
+    background-color: DimGrey;
+    position: relative;
+    height: 267px;
+    width: 362px;
+    overflow: scroll;
+    font-size: 18px;
+    padding: 6px;
+  }
+
+  .option_A{
+    position: relative;
+  height: 64px;
+  width: 362px;
+  font-size: 18px;
+  background: whitesmoke;
+  padding: 20px 10px 16px 17px
+  }
+
+  .option_B{
+    position: relative;
+  height: 64px;
+  width: 362px;
+  font-size: 18px;
+  background: white;
+  padding: 20px 10px 16px 17px
+  }
+
+  .phonelayout{
+    margin-left: 4px;
+    margin-top: 31px;
+    position: relative;
+    border: 5px solid white;
+    min-width: 379px;
+    border-radius: 25px;
+    padding: 18px 3px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    margin-right: 489px;
+  }
+}*/
+
+
+/*
+@media screen and (max-width:375px)
+{
+
+  .design{
+    background: linear-gradient(to bottom, #003399 -9%, #ff66cc 121%);
+    overflow-x:hidden;
+    height:1366px;
+  }
+
+  .imge{
+    margin-left:26px;
+  }
+
+  .space{
+    height:300px;
+  }
+
+  .topic{
+    color: white;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 11px;
+  padding-bottom: 4px;
+  background-color: DeepPink;
+  position: relative;
+  width: 152px;
+
+  }
+
+  .question{
+    background-color: DimGrey;
+    position: relative;
+    height: 267px;
+    width: 318px;
+    overflow: scroll;
+    font-size: 18px;
+    padding: 6px;
+  }
+
+  .option_A{
+    position: relative;
+  height: 64px;
+  width: 318px;
+  font-size: 18px;
+  background: whitesmoke;
+  padding: 20px 10px 16px 17px
+  }
+
+  .option_B{
+    position: relative;
+  height: 64px;
+  width: 318px;
+  font-size: 18px;
+  background: white;
+  padding: 20px 10px 16px 17px
+  }
+
+  .phonelayout{
+    margin-left: 6px;
+    margin-top: 31px;
+    position: relative;
+    border: 5px solid white;
+    min-width: 328px;
+    border-radius: 25px;
+    padding-left: 0px;
+    padding-top: 34px;
+    padding-bottom: 35px;
+    margin-right: 330px;
+  }
+  .imagw{
+    width: 316px;
+  }
+}*/
+
+
+/*
+@media screen and (max-width:360px)
+{
+
+  .design{
+    background: linear-gradient(to bottom, #003399 -9%, #ff66cc 121%);
+    overflow-x:hidden;
+    height:1366px;
+  }
+
+  .imge{
+    margin-left:17px;
+  }
+
+  .space{
+    height:300px;
+  }
+
+  .topic{
+    color: white;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 11px;
+  padding-bottom: 4px;
+  background-color: DeepPink;
+  position: relative;
+  width: 152px;
+
+  }
+
+  .question{
+    background-color: DimGrey;
+    position: relative;
+    height: 267px;
+    width: 318px;
+    overflow: scroll;
+    font-size: 18px;
+    padding: 6px;
+  }
+
+  .option_A{
+    position: relative;
+  height: 64px;
+  width: 318px;
+  font-size: 18px;
+  background: whitesmoke;
+  padding: 20px 10px 16px 17px
+  }
+
+  .option_B{
+    position: relative;
+  height: 64px;
+  width: 318px;
+  font-size: 18px;
+  background: white;
+  padding: 20px 10px 16px 17px
+  }
+
+  .phonelayout{
+    margin-left: 0px;
+    margin-top: 31px;
+    position: relative;
+    border: 5px solid white;
+    min-width: 332px;
+    border-radius: 25px;
+    padding: 25px -8px;
+    padding-top: 34px;
+    padding-bottom: 35px;
+    margin-right: 317px;
+  }
+  .imagw{
+    width: 319px;
+  }
+}*/
+
+/*
+@media screen and (max-width:320px)
+{
+
+  .design{
+    background: linear-gradient(to bottom, #003399 -9%, #ff66cc 121%);
+    overflow-x:hidden;
+    height:1366px;
+  }
+
+  .imge{
+    margin-left: 28px;
+width: 220px;
+  }
+
+  .space{
+    height:300px;
+  }
+
+  .topic{
+    color: white;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 11px;
+  padding-bottom: 4px;
+  background-color: DeepPink;
+  position: relative;
+  width: 152px;
+
+  }
+
+  .question{
+    background-color: DimGrey;
+    position: relative;
+    height: 267px;
+    width: 267px;
+    overflow: scroll;
+    font-size: 18px;
+
+    padding: 6px;
+  }
+
+  .option_A{
+    position: relative;
+  height: 64px;
+  width:267px;
+  font-size: 18px;
+  background: whitesmoke;
+  padding: 20px 10px 16px 17px
+  }
+
+  .option_B{
+    position: relative;
+  height: 64px;
+  width: 267px;
+  font-size: 18px;
+  background: white;
+  padding: 20px 10px 16px 17px
+  }
+
+  .phonelayout{
+    margin-left:4px;
+    margin-top: 31px;
+    position: relative;
+    border: 5px solid white;
+    min-width: 282px;
+    border-radius: 25px;
+    padding: 25px -8px;
+    padding-top: 34px;
+    padding-bottom: 35px;
+    margin-right: 317px;
+  }
+  .imagw{
+    width: 266px;
+  }
+}*/
+/*
+
+@media screen and (max-width:440px){
+  .phonelayout{
+    margin-left:10px;
+    margin-top: 31px;
+    position: relative;
+    border: 5px solid white;
+    min-width: 361px;
+    border-radius: 25px;
+    padding: 25px -8px;
+    padding-top: 34px;
+    padding-bottom: 35px;
+    margin-right: 317px;
+  }
+}
+
+
+@media screen and (max-width:991px)
+{
+
+  .design{
+    background: linear-gradient(to bottom, #003399 -9%, #ff66cc 121%);
+    overflow-x:hidden;
+    height:1366px;
+  }
+
+  .imge{
+    margin-left:364px;
+    width: 220px;
+  }
+
+  /*.space{
+    height:300px;
+  }*/
+/*
+  .topic{
+    color: white;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 11px;
+  padding-bottom: 4px;
+  background-color: DeepPink;
+  position: relative;
+  width: 152px;
+
+  }
+
+  .question{
+    background-color: DimGrey;
+    position: relative;
+    height: 267px;
+    width: 345px;
+    overflow: scroll;
+    font-size: 18px;
+    padding: 6px;
+  }
+
+  .option_A{
+    position: relative;
+    height: 64px;
+    width: 345px;
+    font-size: 18px;
+    background: whitesmoke;
+    padding: 20px 10px 16px 17px;
+  }
+
+  .option_B{
+    position: relative;
+    height: 64px;
+    width: 345px;
+    font-size: 18px;
+    background: white;
+    padding: 20px 10px 16px 17px;
+  }
+
+  .phonelayout{
+    margin-left:297px;
+    margin-top: 31px;
+    position: relative;
+    border: 5px solid white;
+    min-width: 361px;
+    border-radius: 25px;
+    padding: 25px -8px;
+    padding-top: 34px;
+    padding-bottom: 35px;
+    margin-right: 317px;*/
+
+    /*margin-left: 0px;
+    margin-top: 41px;
+    position: relative;
+    border: 5px solid white;
+    min-width: 8px;
+    border-radius: 28px;
+    padding-top: 34px;
+    padding-bottom: 36px;
+    margin-right: 27px;
+    padding-right: 0px;
+    margin-left: 28px;*/
+  /*}
+  .imagw{
+    width: 345px;
+  }
+  .playlayout{
+    background: linear-gradient(to top right, #003399 -9%, #ff66cc 121%);
+  position: absolute;
+  min-width: 346px;
+  height: 254px;
+  opacity: 0.4;
+  top: 408px;
+  margin-left: 1px;
+
+
+  }
+
+}*/
