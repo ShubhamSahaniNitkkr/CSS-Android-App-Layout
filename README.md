@@ -28,7 +28,7 @@ npm install && npm run dev
 
 ## Live Demo
 
-[https://shubhamsahaniNitkkr.github.io/old-basic-projects/projects/CSS-Android-App-Layout/](https://shubhamsahaniNitkkr.github.io/old-basic-projects/projects/CSS-Android-App-Layout/)
+[https://shubhamsahaniNitkkr.github.io/CSS-Android-App-Layout/](https://shubhamsahaniNitkkr.github.io/CSS-Android-App-Layout/)
 
 
 ## Performance & UI
