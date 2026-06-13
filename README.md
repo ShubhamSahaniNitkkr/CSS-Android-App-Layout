@@ -1,8 +1,9 @@
 # Android App Layout (CSS)
 
 > CSS-only Android-style mobile UI mockup with material-style cards and quiz layout.
+> 
+<img width="2240" height="1166" alt="image" src="https://github.com/user-attachments/assets/3c61db54-9c78-47b2-a89e-25a9c48c8f13" />
 
-![Screenshot](./screenshot.png)
 > Add `screenshot.png` in project root for preview.
 
 ## Purpose
