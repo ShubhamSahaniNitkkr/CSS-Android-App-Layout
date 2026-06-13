@@ -4,11 +4,12 @@
   color: white;
   font-size: 18px;
   text-align: left;
-  padding-left: 11px;
-  padding-bottom: 4px;
+  padding: 4px 11px;
   background-color: DeepPink;
   position: relative;
-  width: 152px;
+  width: auto;
+  max-width: 100%;
+  display: inline-block;
 }
 
 .question {
@@ -99,6 +100,15 @@
     position: relative;
     top: auto;
     margin-top: 10px;
+  }
+
+  .imagw {
+    width: 100%;
+    height: auto;
+  }
+
+  .design {
+    padding: 0 12px 24px;
   }
 }
 
